@@ -164,3 +164,4 @@ cython_debug/
 *.docx
 *.pdf
 manifest.xml
+/cache
